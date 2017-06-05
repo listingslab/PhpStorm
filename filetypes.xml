@@ -6,6 +6,7 @@
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="Perl" />
