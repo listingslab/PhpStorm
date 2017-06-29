@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="magerun" type="Less" />
+      <removed_mapping ext="phtml" type="PHP" />
       <mapping pattern="summary.js" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="phtml" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
