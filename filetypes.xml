@@ -11,6 +11,7 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile_swg" type="Perl" />
       <mapping pattern="Vagrantfile" type="Perl" />
       <mapping pattern="rake" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
