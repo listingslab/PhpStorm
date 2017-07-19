@@ -14,8 +14,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sca</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtml</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -23,13 +21,15 @@
       <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ph</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
