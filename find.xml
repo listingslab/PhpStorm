@@ -14,23 +14,23 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sca</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.phtm</mask>
       <mask>*.php</mask>
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
