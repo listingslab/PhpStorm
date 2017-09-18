@@ -25,16 +25,16 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
