@@ -4,8 +4,10 @@
       <mapping ext="magerun" type="Less" />
       <mapping pattern="summary.js" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
+      <mapping pattern="._PRODUCTION" type="PLAIN_TEXT" />
       <mapping pattern="ItemList.jsx" type="PLAIN_TEXT" />
       <mapping pattern="fwef" type="PLAIN_TEXT" />
+      <mapping pattern=".STAGING" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
