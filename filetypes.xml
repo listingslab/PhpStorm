@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="magerun" type="Less" />
+      <mapping pattern="skype.html" type="PLAIN_TEXT" />
       <mapping pattern="summary.js" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="._PRODUCTION" type="PLAIN_TEXT" />
