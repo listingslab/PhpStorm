@@ -10,6 +10,7 @@
       <mapping pattern="fwef" type="PLAIN_TEXT" />
       <mapping pattern=".STAGING" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="..firestore-console_0.0.9" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
