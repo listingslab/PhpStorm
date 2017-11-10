@@ -8,6 +8,7 @@
       <mapping pattern=". killer-react-pwa_0.0.2" type="PLAIN_TEXT" />
       <mapping pattern="._PRODUCTION" type="PLAIN_TEXT" />
       <mapping pattern="ItemList.jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".bnt-point-of-sale_1.0.0" type="PLAIN_TEXT" />
       <mapping pattern="fwef" type="PLAIN_TEXT" />
       <mapping pattern=".STAGING" type="PLAIN_TEXT" />
       <mapping pattern="..firestore-console_0.0.9" type="PLAIN_TEXT" />
