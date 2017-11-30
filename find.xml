@@ -5,9 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
@@ -37,6 +35,7 @@
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>font-awesome</mask>
     </recentFileMasks>
   </component>
 </application>
