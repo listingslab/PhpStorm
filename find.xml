@@ -6,11 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.sca</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.less</mask>
@@ -31,11 +26,16 @@
       <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>font-awesome</mask>
-      <mask>.</mask>
-      <mask>.p</mask>
-      <mask>.ph</mask>
-      <mask>.pht</mask>
       <mask>.phtml</mask>
+      <mask>.phtm</mask>
+      <mask>.pht</mask>
+      <mask>.ph</mask>
+      <mask>.p</mask>
+      <mask>.</mask>
+      <mask>.s</mask>
+      <mask>.sc</mask>
+      <mask>.scs</mask>
+      <mask>.scss</mask>
     </recentFileMasks>
   </component>
 </application>
