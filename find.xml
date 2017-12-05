@@ -26,16 +26,16 @@
       <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>font-awesome</mask>
-      <mask>.phtml</mask>
-      <mask>.phtm</mask>
-      <mask>.pht</mask>
-      <mask>.ph</mask>
-      <mask>.p</mask>
-      <mask>.</mask>
-      <mask>.s</mask>
-      <mask>.sc</mask>
-      <mask>.scs</mask>
       <mask>.scss</mask>
+      <mask>.scs</mask>
+      <mask>.sc</mask>
+      <mask>.s</mask>
+      <mask>.</mask>
+      <mask>.p</mask>
+      <mask>.ph</mask>
+      <mask>.pht</mask>
+      <mask>.phtm</mask>
+      <mask>.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
