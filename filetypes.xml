@@ -11,12 +11,12 @@
       <mapping pattern="ItemList.jsx" type="PLAIN_TEXT" />
       <mapping pattern="Address.html" type="PLAIN_TEXT" />
       <mapping pattern="fwef" type="PLAIN_TEXT" />
-      <mapping pattern="ResponsiveDrawer.jsx" type="PLAIN_TEXT" />
       <mapping pattern=".STAGING" type="PLAIN_TEXT" />
       <mapping pattern="..firestore-console_0.0.9" type="PLAIN_TEXT" />
       <mapping pattern=".bnt-point-of-sale_1.0.0" type="PLAIN_TEXT" />
       <mapping pattern="...killer-react-pwa_0.0.2" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="ResponsiveDrawer.jsx" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
