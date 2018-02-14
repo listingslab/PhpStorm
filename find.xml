@@ -28,14 +28,14 @@
       <mask>.scs</mask>
       <mask>.sc</mask>
       <mask>.s</mask>
-      <mask>.phtm</mask>
-      <mask>.js</mask>
-      <mask>.j</mask>
-      <mask>.</mask>
-      <mask>.p</mask>
-      <mask>.ph</mask>
-      <mask>.pht</mask>
       <mask>.phtml</mask>
+      <mask>.phtm</mask>
+      <mask>.pht</mask>
+      <mask>.ph</mask>
+      <mask>.p</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.js</mask>
     </recentFileMasks>
   </component>
 </application>
