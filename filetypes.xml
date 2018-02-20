@@ -9,6 +9,7 @@
       <mapping pattern=". killer-react-pwa_0.0.2" type="PLAIN_TEXT" />
       <mapping pattern="._PRODUCTION" type="PLAIN_TEXT" />
       <mapping pattern="ItemList.jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".javascript-team" type="PLAIN_TEXT" />
       <mapping pattern="Address.html" type="PLAIN_TEXT" />
       <mapping pattern="fwef" type="PLAIN_TEXT" />
       <mapping pattern=".STAGING" type="PLAIN_TEXT" />
