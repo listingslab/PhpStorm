@@ -19,6 +19,7 @@
       <mapping pattern="...killer-react-pwa_0.0.2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="..........................bianco-frontend" type="PLAIN_TEXT" />
       <mapping pattern="ResponsiveDrawer.jsx" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
